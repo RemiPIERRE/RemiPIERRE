@@ -41,9 +41,3 @@ Actuellement en recherche d'une **alternance ou d'un stage** en développement w
 
 [![LinkedIn](www.linkedin.com/in/rémi-pierre-963ab5182)
 
-
----
-
-### 📊 Stats GitHub
-
-![Stats GitHub de Rémi](https://github-readme-stats.vercel.app/api?username=RemiPIERRE&show_icons=true&theme=default)
