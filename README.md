@@ -1,8 +1,8 @@
-# Salut, moi c'est Rémi 👋
+# Hey, moi c'est Rémi 👋
 
-🎓 Étudiant en développement web (promo EDWM 2026 - ENI)
-🚀 À la recherche d'une **alternance / stage** en développement web
-🌱 En train de monter en compétences sur plusieurs stacks à travers mes projets
+Étudiant en développement web (promo EDWM 2026 - ENI)
+À la recherche d'une **alternance** en développement web
+En train de monter en compétences sur plusieurs stacks à travers mes projets
 
 ---
 
