@@ -1,8 +1,8 @@
 # Hey, moi c'est Rémi 👋
 
-Étudiant en développement web (promo EDWM 2026 - ENI)
-À la recherche d'une **alternance** en développement web
-En train de monter en compétences sur plusieurs stacks à travers mes projets
+- Étudiant en développement web (promo EDWM 2026 - ENI)
+- À la recherche d'une **alternance** en développement web
+- En train de monter en compétences sur plusieurs stacks à travers mes projets
 
 ---
 
@@ -27,7 +27,7 @@ En train de monter en compétences sur plusieurs stacks à travers mes projets
 ### 📌 Projets
 
 - 🗂️ **[Priora](https://github.com/RemiPIERRE/Priora)** — Tableau Kanban en HTML / CSS / JS, sauvegarde locale via `localStorage`
-- 🎓 **[Promo_ENI](https://github.com/RemiPIERRE/Promo_ENI)** — Page de présentation de ma promo (HTML/CSS)
+- 🎓 **[Promo_ENI](https://github.com/RemiPIERRE/Promo_ENI)** — Page de présentation de ma promo (HTML/CSS/JS)
 - ☕ *Projet Java* — en cours de développement (bientôt disponible)
 - 🐘 *Projet PHP* — en cours de développement (bientôt disponible)
 - ⚛️ *Application web React / Node.js / MongoDB* — en cours de développement (bientôt disponible)
