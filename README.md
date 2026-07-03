@@ -27,6 +27,7 @@
 ### 📌 Projets
 
 - 🗂️ **[Priora](https://github.com/RemiPIERRE/Priora)** — Tableau Kanban en HTML / CSS / JS, sauvegarde locale via `localStorage`
+      - https://remipierre.github.io/Priora/
 - 🎓 **[Promo_ENI](https://github.com/RemiPIERRE/Promo_ENI)** — Page de présentation de ma promo (HTML/CSS/JS)
 - ☕ *Projet Java* — en cours de développement (bientôt disponible)
 - 🐘 *Projet PHP* — en cours de développement (bientôt disponible)
