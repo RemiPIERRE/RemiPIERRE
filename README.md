@@ -40,5 +40,5 @@
 Actuellement en recherche d'une **alternance ou d'un stage** en développement web. N'hésitez pas à me contacter si un poste correspond à mon profil !
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/rémi-pierre-963ab5182
+[!LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/rémi-pierre-963ab5182
 
