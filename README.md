@@ -1,6 +1,6 @@
 # Hey, moi c'est Rémi !
 
-- Développeur Web & Web Mobile — promo EDWM 2026 (ENI)
+- Développeur Web & Web Mobile — promo DWWM 2026 (ENI)
 - À la recherche d'une **alternance** en développement web
 - Basé en Bretagne
 
